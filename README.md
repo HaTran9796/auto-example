@@ -1,0 +1,1 @@
+- npx mocha --no-timeouts first.js --env=en --reportor mochawesome
